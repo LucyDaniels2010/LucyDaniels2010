@@ -6,4 +6,4 @@ If GitHub is blocked, check out my onedrive [here](https://1drv.ms/u/s!Aqy_w35Jo
 
 # Credits
 
-If something doesn't have credits, then I don't know who owns it, so if you are the owner or know the owner, make an issue and I will fix it
+If something doesn't have credits, then I don't know who owns it, so if you are the owner or know the owner, make an issue and I'll fix it
