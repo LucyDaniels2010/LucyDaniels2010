@@ -2,7 +2,11 @@
 
 I have games and apps to put on your school computer >:)
 
-If GitHub is blocked, check out my onedrive [here](https://1drv.ms/u/s!Aqy_w35Joh0pl7JcmWMExBCXEbt3OQ?e=w4tyyw)
+# OneDrive
+
+If GitHub is blocked, check out my onedrive (coming soooooon!)
+
+My OneDrive is cool because if there's things that is too big for GitHub to handle (weak) then it would be there!
 
 # Credits
 
